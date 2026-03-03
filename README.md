@@ -7,9 +7,6 @@ This project documents a live trading framework that exploited temporary breakdo
 Full Research Paper (PDF): [Fixed Income ETF Relative Value Trading During COVID](./Fixed_Income_ETF_Relative_Value_Trading_During_COVID.pdf)
 
 ---
-Examples of actural trades: [2020 Sample Trades](.2020_Sample_Trades.xlsx)
-
----
 
 ## Overview
 
