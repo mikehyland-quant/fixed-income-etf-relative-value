@@ -5,7 +5,7 @@ A systematic long/short ETF relative-value strategy deployed during the March–
 This project documents a live trading framework that exploited temporary breakdowns in normally stable spread relationships between highly correlated fixed income ETFs.
 
 Full Research Paper (PDF):  
-→ [Download Here](.Fixed_Income_ETF_Relative_Value_Trading_During_COVID.pdf)
+→ [Download Here](./docs/Fixed_Income_ETF_Relative_Value_Trading_During_COVID.pdf)
 
 Examples of actural trades:
 → [Download Here](.2020_Sample_Trades.xlsx)
