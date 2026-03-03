@@ -1,4 +1,4 @@
-# Fixed Income ETF Relative Value Trading During COVID-19
+# Fixed Income ETF Relative Value Trading During COVID
 
 A systematic long/short ETF relative-value strategy deployed during the March–June 2020 liquidity crisis.
 
