@@ -167,7 +167,7 @@ Full paper including:
 - Convergence horizon comparison (normal vs crisis)
 - Capacity and liquidity analysis
 
-→ [Download Full Research Paper (PDF)](./docs/Fixed_Income_ETF_Relative_Value_Trading_During_COVID.pdf)
+→ [Download Full Research Paper (PDF)](./Fixed_Income_ETF_Relative_Value_Trading_During_COVID.pdf)
 
    
 
